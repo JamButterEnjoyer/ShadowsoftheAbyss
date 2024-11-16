@@ -1,0 +1,19 @@
+{
+  "item.vitaldeprivation.creature_spawn_egg": "Creature Spawn Egg",
+  "item.vitaldeprivation.proximity_sensor": "Proximity Sensor",
+  "item.vitaldeprivation.proximity_sensor.tooltip1": "Clicks faster the closer it gets",
+  "item.vitaldeprivation.proximity_sensor.tooltip2": "Only works when held in your main hand",
+
+  "block.vitaldeprivation.erosion_gas": "Erosion Gas",
+
+  "entity.vitaldeprivation.creature": "Creature",
+
+  "gui.vitaldeprivation.config.name": "Vital Deprivation Configs",
+
+  "gui.vitaldeprivation.config.erosion_gas": "Erosion Gas",
+  "gui.vitaldeprivation.config.erosion_gas.enabled": "Enabled?",
+
+  "gui.vitaldeprivation.config.spawning": "Spawning",
+  "gui.vitaldeprivation.config.spawning.time_until_max_spawns": "Time until max. spawns",
+  "gui.vitaldeprivation.config.spawning.max_spawns": "Maximum spawn weight"
+}

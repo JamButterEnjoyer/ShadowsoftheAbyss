@@ -1,0 +1,24 @@
+modLoader = "javafml"
+loaderVersion = "[47,)"
+license = "MIT"
+[[mods]]
+modId = "vitaldeprivation"
+version = "${file.jarVersion}"
+displayName = "Vital Deprivation"
+logoFile = "assets/vitaldeprivation/icon.png"
+authors = "a cats"
+description = '''
+Torn from a distant reality
+'''
+[[dependencies.vitaldeprivation]]
+modId = "forge"
+mandatory = true
+versionRange = "[47,)"
+ordering = "NONE"
+side = "BOTH"
+[[dependencies.vitaldeprivation]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.20.1]"
+ordering = "NONE"
+side = "BOTH"
