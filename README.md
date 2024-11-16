@@ -1,3 +1,4 @@
+https://img.shields.io/badge/Style-Horror-blue
 > [!IMPORTANT]
 > This mod is made ONLY for Java Edition of Minecraft
 # Requirments
