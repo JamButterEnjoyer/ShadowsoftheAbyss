@@ -13,4 +13,4 @@ Health and armor systems in this mod have been rewritten so that one is always i
 Shadows of the Abyss deeply taps into psychological terror, casting players into a state of constant dread. Flickering torches barely fend off the oppressive darkness, and ambient sounds like whispers from afar, echoing roars, and the skittering of unseen horrors will keep players on edge. Distorting Nether landscapes-twisting the very reality itself-reinforces the atmosphere with visual design in this mod. You are not guaranteed to survive, and every decision will count. Be it some hostile biome of the Nether, which you need to brave, or crafting an item of crucial resource in the Overworld, Shadows of the Abyss makes sure fear is always your companion.
 
 # Contact me on discord
-	<ins>jambutterenjoyer </ins>
+	jambutterenjoyer
