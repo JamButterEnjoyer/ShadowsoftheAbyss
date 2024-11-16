@@ -1,4 +1,3 @@
-https://img.shields.io/badge/Style-Horror-blue
 > [!IMPORTANT]
 > This mod is made ONLY for Java Edition of Minecraft
 # Requirments
@@ -15,3 +14,4 @@ Shadows of the Abyss deeply taps into psychological terror, casting players into
 
 # Contact me
 <code style="color : aqua">Discord:</code> 'jambutterenjoyer'
+<img alt="Static Badge" src="https://img.shields.io/badge/Style-Horror-blue">
