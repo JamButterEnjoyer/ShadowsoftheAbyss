@@ -12,9 +12,19 @@ Health and armor systems in this mod have been rewritten so that one is always i
 
 Shadows of the Abyss deeply taps into psychological terror, casting players into a state of constant dread. Flickering torches barely fend off the oppressive darkness, and ambient sounds like whispers from afar, echoing roars, and the skittering of unseen horrors will keep players on edge. Distorting Nether landscapes-twisting the very reality itself-reinforces the atmosphere with visual design in this mod. You are not guaranteed to survive, and every decision will count. Be it some hostile biome of the Nether, which you need to brave, or crafting an item of crucial resource in the Overworld, Shadows of the Abyss makes sure fear is always your companion.
 
+## Status
+- [x] Made a custom armor system
+- [x] Made mobs' movement/behavior feel "AI-styled"
+- [x] Made custom health sytem
+- [x] Made a custom cave generation system along with custom cave sounds
+- [x] Made a TON (15) of new nether structures
+- [x] Made custom enemies for the nether and the overworld
+- [] Finished remaking The End
+- [] Made custom ore
+
 # Contact me
 ```ruby
-Discord: 'jambutterenjoyer'
+Discord: jambutterenjoyer
 ```
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Style-Horror-blue">
