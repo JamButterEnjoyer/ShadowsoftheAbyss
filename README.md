@@ -19,8 +19,8 @@ Shadows of the Abyss deeply taps into psychological terror, casting players into
 - [x] Made a custom cave generation system along with custom cave sounds
 - [x] Made a TON (15) of new nether structures
 - [x] Made custom enemies for the nether and the overworld
-- [] Finished remaking The End
-- [] Made custom ore
+- [ ] Finished remaking The End
+- [ ] Made custom ore
 
 # Contact me
 ```ruby
