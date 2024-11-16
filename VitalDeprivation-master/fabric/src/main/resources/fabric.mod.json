@@ -1,0 +1,37 @@
+{
+    "schemaVersion": 1,
+    "id": "vitaldeprivation",
+    "version": "${version}",
+    "name": "${mod_name}",
+    "description": "Torn from a distant reality",
+    "authors": [
+        "${mod_author}"
+    ],
+    "contact": {
+    },
+    "license": "CC0 1.0 Universal",
+    "icon": "assets/vitaldeprivation/icon.png",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "mod.acats.vitaldeprivation.VitalDeprivationFabric"
+        ],
+        "client": [
+            "mod.acats.vitaldeprivation.VitalDeprivationClientFabric"
+        ],
+        "modmenu": [
+            "mod.acats.vitaldeprivation.compat.VDModMenu"
+        ]
+    },
+    "mixins": [
+        "vitaldeprivation.mixins.json",
+        "vitaldeprivation.fabric.mixins.json"
+    ],
+    "depends": {
+        "fabricloader": ">=0.14",
+        "fabric": "*",
+        "minecraft": "1.20.1",
+        "java": ">=17"
+    }
+}
+  
