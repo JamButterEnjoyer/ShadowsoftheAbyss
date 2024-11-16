@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "vitaldeprivation:block/erosion_gas"
+  }
+}
