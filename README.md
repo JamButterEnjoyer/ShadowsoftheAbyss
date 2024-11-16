@@ -1,3 +1,6 @@
+![Fan art of the Minecraft horror mod called Shadows of the Abyss]([https://myoctocat.com/assets/images/base-octocat.svg](https://cdn.discordapp.com/attachments/1294116462788870145/1307403970725150750/Shadows_of_the_Abyss.png?ex=673a2e55&is=6738dcd5&hm=03b0b9477c1c97669c8fb1e06f85e1522b6dfcacd7839a9a0ac20f311f02695b&))
+
+
 > [!IMPORTANT]
 > This mod is made ONLY for Java Edition of Minecraft
 # Requirments
