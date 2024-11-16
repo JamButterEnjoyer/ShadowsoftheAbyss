@@ -3,7 +3,8 @@
 # Requirments
 - [Fabric 1.20-1.20.6](https://fabricmc.net/)
 - [Fabric api 1.20-1.20.6](https://modrinth.com/mod/fabric-api/versions)
-
+# How to install a Minecraft mod
+[Youtube link](https://www.youtube.com/watch?v=nVYlozhptC0)
 # About the mod 
 Shadows of the Abyss is a terrifying Minecraft mod that launches players into a world where survival is not only a chore, but an abhorrent affair. This mod reimagines the Nether as a haunting, twisted dimension with many unspeakable terrors lurking within. The familiar biomes twist into a landscape of sinister outlook, perpetually dark, and filled with grotesque creatures whose artificial intelligence allows them to be advanced-beasts that hunt players relentlessly. The once-vibrant glow of the Nether had dulled, replaced by strange colors and quivering shadows that almost seemed to have a life all their own. Ruins deep in the Nether house powerful artifacts and cryptic lore but delving too deep into these may awaken terrible curses.
 
