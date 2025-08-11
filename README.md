@@ -1,57 +1,76 @@
 ![image](https://github.com/user-attachments/assets/9021cb7f-8996-4372-b2e6-76abf8dc82e9)
 
-# Shadows of the Abyss
+<h1 align="center">🕷️ Shadows of the Abyss 🕷️</h1>
 
-## Important
-> **This mod is made ONLY for Java Edition of Minecraft**
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-Java%20Edition-orange?style=for-the-badge&logo=minecraft" alt="Minecraft Java Edition">
+  <img src="https://img.shields.io/badge/Fabric-1.20%20--%201.20.6-blue?style=for-the-badge&logo=fabricmc" alt="Fabric">
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+</p>
 
----
-
-## Requirements
-- Fabric **1.20 – 1.20.6**
-- Fabric API **1.20 – 1.20.6**
-
----
-
-## How to Install a Minecraft Mod
-[📺 Watch on YouTube](https://www.youtube.com)  
+<p align="center">
+  <em>A horrifying reimagining of the Nether — where survival is not just hard, it's terrifying.</em>
+</p>
 
 ---
 
-## About the Mod
-**Shadows of the Abyss** is a terrifying Minecraft mod that launches players into a world where survival is not only a chore, but an abhorrent affair.
-
-This mod reimagines the Nether as a haunting, twisted dimension with many unspeakable terrors lurking within.  
-The familiar biomes twist into a sinister landscape—perpetually dark—filled with grotesque creatures whose advanced AI allows them to hunt players relentlessly. The once-vibrant glow of the Nether is replaced by strange colors and quivering shadows that almost seem to have a life of their own.
-
-Ruins deep in the Nether hold powerful artifacts and cryptic lore, but delving too deep may awaken terrible curses.
+## 📢 Important
+> ⚠️ **This mod is made ONLY for Java Edition of Minecraft**
 
 ---
 
-### Gameplay Changes
-- **Custom Health System** – Health festers over time if untreated; requires complex medication.
-- **Custom Armor System** – Armor is less durable, made from rare resources found in dangerous locations.
-- **Harsher Combat** – Shields block less, weapons break more easily.
-- **Cursed Enchantments** – Offer incredible power with devastating side effects.
-- **Psychological Horror** – Flickering torches, whispers, echoing roars, and skittering horrors.
-- **Distorted Nether Landscapes** – Reality twists into surreal, hostile forms.
+## 🛠 Requirements
+- **Fabric Loader:** `1.20 – 1.20.6`
+- **Fabric API:** `1.20 – 1.20.6`
 
 ---
 
-## Status
-✅ Custom armor system  
-✅ AI-styled mob movement/behavior  
-✅ Custom health system  
-✅ Custom cave generation + ambient cave sounds  
-✅ 15+ new Nether structures  
-✅ New enemies for Nether & Overworld  
-✅ End dimension remake  
-✅ Custom ore  
+## 📥 How to Install
+[![Watch Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com)  
 
 ---
 
-## Contact
+## 🕯 About the Mod
+**Shadows of the Abyss** turns the Nether into a realm of **pure dread** — a twisted, suffocating landscape crawling with nightmarish creatures.
+
+### 🌑 Key Features:
+- **Custom Health System** 🫀 – Health festers over time unless treated; craft advanced medication to survive.
+- **Custom Armor System** 🛡 – Weak durability, rare crafting resources hidden in perilous zones.
+- **Harsher Combat** ⚔ – Shields block less, weapons snap faster.
+- **Cursed Enchantments** ☠ – Incredible power… with devastating side effects.
+- **Psychological Terror** 👁 – Flickering torches, whispering voices, echoing roars, and shadows that *move*.
+- **Distorted Nether Landscapes** 🌋 – Surreal, reality-bending biomes that keep you on edge.
+
+---
+
+## 📸 Screenshots
+*(Add your mod screenshots here)*  
+Example placeholder:  
+![Nether Horror](https://via.placeholder.com/800x400?text=Shadows+of+the+Abyss+Screenshot)
+
+---
+
+## 📜 Current Progress
+| Feature | Status |
+|---------|--------|
+| Custom Armor System | ✅ |
+| AI-Driven Mob Behavior | ✅ |
+| Custom Health System | ✅ |
+| Cave Generation + Sounds | ✅ |
+| 15+ New Nether Structures | ✅ |
+| New Enemies (Nether & Overworld) | ✅ |
+| End Dimension Overhaul | ✅ |
+| Custom Ore | ✅ |
+
+---
+
+## 📬 Contact
 **Discord:** `jambutterenjoyer`  
-**Static Badge:** *(Insert badge link/image)*
+**Static Badge:** *(Insert badge image or link)*
 
 ---
+
+<p align="center">
+  <sub>© 2025 Shadows of the Abyss — Fear is your only companion.</sub>
+</p>
+
