@@ -43,13 +43,6 @@
 
 ---
 
-## 📸 Screenshots
-*(Add your mod screenshots here)*  
-Example placeholder:  
-![Nether Horror](https://via.placeholder.com/800x400?text=Shadows+of+the+Abyss+Screenshot)
-
----
-
 ## 📜 Current Progress
 | Feature | Status |
 |---------|--------|
@@ -66,7 +59,6 @@ Example placeholder:
 
 ## 📬 Contact
 **Discord:** `jambutterenjoyer`  
-**Static Badge:** *(Insert badge image or link)*
 
 ---
 
