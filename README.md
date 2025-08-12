@@ -20,8 +20,8 @@
 ---
 
 ## 🛠 Requirements
-- **Fabric Loader:** `1.20 – 1.20.6`
-- **Fabric API:** `1.20 – 1.20.6`
+- **Fabric Loader:** `1.21.1`
+- **Fabric API:** `1.21.1`
 
 ---
 
